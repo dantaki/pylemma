@@ -1,0 +1,10 @@
+MANIFEST.in
+README
+setup.py
+analemma/__init__.py
+analemma/analemma
+analemma/analemma.py
+analemma.egg-info/PKG-INFO
+analemma.egg-info/SOURCES.txt
+analemma.egg-info/dependency_links.txt
+analemma.egg-info/top_level.txt
